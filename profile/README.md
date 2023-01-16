@@ -1,2 +1,2 @@
-# Sting Engine
-Create Mega Man X fangames quickly with this engine!
+# MMXCreator
+Create Mega Man X fangames quickly with this tool!
